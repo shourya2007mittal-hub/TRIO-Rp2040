@@ -15,4 +15,22 @@ So I made on a Dev-board based on Rp-2040 with similar size contrain like Xiao-R
 
 | Item | Quantity | Price (USD) | Source |
 |------|------------|------------|---------|
-| PCB + PCBA + Shipping  | 1 | $79.29 | JLCPCB |
+| PCB + PCBA + Shipping  | 1 | $81.91 | JLCPCB |
+
+**Total Estimated Cost:** **$81.91**
+
+### Schematic
+<img width="1161" height="708" alt="Screenshot 2026-07-25 195604" src="https://github.com/user-attachments/assets/ce2b912e-f944-484a-9998-ba0aba3e5527" />
+
+
+### PCB Design
+<img width="647" height="730" alt="Screenshot 2026-07-25 193642" src="https://github.com/user-attachments/assets/4c036221-8b3a-4386-8773-acdf38f62b79" />
+
+### 3D Design
+<img width="866" height="628" alt="Screenshot 2026-07-25 194108" src="https://github.com/user-attachments/assets/f248f649-35f3-4aeb-903b-181fd1a1ab14" />
+<img width="611" height="437" alt="Screenshot 2026-07-25 194132" src="https://github.com/user-attachments/assets/7665bacf-9769-4a39-bce6-4de81948cd5a" />
+
+
+
+
+
