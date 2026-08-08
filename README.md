@@ -1,7 +1,11 @@
 # TRIO-Rp2040
 <img width="591" height="607" alt="Screenshot 2026-08-01 024505" src="https://github.com/user-attachments/assets/eda8737a-08ab-43e9-960d-2156de543c08" />
 
-So I made on a Dev-board based on Rp-2040 with similar size constrain like Xiao-Rp2040 but with more available pins then Xiao. So I used the smallest size of resistors and capacitors . It has access to a total of 21 GPI0 and 4 Analog . 6 Pins act as dual purpose. It holds an USB-C Type interference for communication and 3.3V Voltage regulator and Crystal oscillator , Flash Memory , boot Switch  and more 
+So I made on a Dev-board based on Rp-2040 with similar size constrain like Xiao-Rp2040 but with more available pins then Xiao. So I used the smallest size of resistors and capacitors . It has access to a total of 21 GPI0 and 4 Analog . 6 Pins act as dual purpose. It holds an USB-C Type interference for communication and 3.3V Voltage regulator and Crystal oscillator , Flash Memory , boot Switch  and more . 
+
+## Why This
+
+I made this as an alternative for  Xiao-Rp2040. Every time we need a small rp2040 microcontroller we surely need to go with Xiao boards . I made this so that I could use it for my upcoming projects related to Micro pad  and other IOT related things.
 
 ## Features
 
